@@ -14,7 +14,4 @@ This project recommends learning materials to students using Artificial Intellig
 ### Technologies Used
 - Python
 - Machine Learning
-- HTML/CSS
-
-### Author
-Poorva Patil
+- HTML/CSS        
