@@ -3,7 +3,7 @@ Ai learning material recommender system
 # my-first-project
 ## AI Learning Material Recommender System
 
-[Project Repository](https://github.com/your-username/your-repositor
+[Project Repository](https://github.com/poorva-p-atil/my-first-project
 
 This project recommends learning materials to students using Artificial Intelligence.
 
